@@ -1,5 +1,5 @@
 # naalaayiram
-Group wiki for Namazhvar's Thiruvimozhi.
+Group wiki for Namazhvar's Thiruvaimozhi.
 
 The goal of this wiki is to:
 
@@ -17,7 +17,7 @@ Similar sites which provide these information but what they lack is listed below
 6. [4000divyaprabandam blogspot](http://4000divyaprabandam.blogspot.in) - has the verses but [not all of them](http://thiruvaymozhi-9th-10thdecad.blogspot.ae). Text is only in English and recitation marks are not there.
 7. [srivaishnavam.com](http://www.srivaishnavam.com/prabandham.htm) - has verses in Tamil text in PDF form, but no text search.
 8. [namperumal.com](http://www.namperumal.com/divya-prabhandam.html) - has [Eedu text of Mudhal Paththu in Tamil as PDF](http://www.namperumal.com/downloads/tvm-1.pdf)
-9. [ramanuja.org](http://www.ramanuja.org/sv/prabandham/) - has text in Emglish, but no search.
+9. [ramanuja.org](http://www.ramanuja.org/sv/prabandham/) - has text in English, but no search.
 10. [prapatti.com](http://www.prapatti.com/slokas/category/tam-divyaprabandham.html) - mostly audio recordings of recitals.
 11. [vedics.org](http://vedics.org/index.php/about-us/vedics-usa/item/45-nalayira-divya-prabhandam-santhai-recording) - mostly recordings
 12. [divyaprabandham.koyil.org](http://divyaprabandham.koyil.org) - has text but search is [not showing all hits](http://divyaprabandham.koyil.org/?s=muniye)
