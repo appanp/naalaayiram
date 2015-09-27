@@ -1,2 +1,2 @@
 # naalaayiram
-Group wiki for Namazhvar's Naalaayira Divya Prabhandam
+Group wiki for Namazhvar's Thuruvimozhi
