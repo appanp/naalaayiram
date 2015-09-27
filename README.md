@@ -1,5 +1,5 @@
 # naalaayiram
-Group wiki for Namazhvar's Thuruvimozhi.
+Group wiki for Namazhvar's Thiruvimozhi.
 
 The goal of this wiki is to:
 
