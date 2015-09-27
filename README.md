@@ -22,4 +22,8 @@ Similar sites which provide these information but what they lack is listed below
 11. [vedics.org](http://vedics.org/index.php/about-us/vedics-usa/item/45-nalayira-divya-prabhandam-santhai-recording) - mostly recordings
 12. [divyaprabandham.koyil.org](http://divyaprabandham.koyil.org) - has text but search is [not showing all hits](http://divyaprabandham.koyil.org/?s=muniye)
 13. [antaryami.net](http://antaryami.net/) - mostly on News, have not checked the contents available.
+14. [srivaishnavagranthams.wordpress.com](https://srivaishnavagranthams.wordpress.com/purvacharya-literature/)
+15. [srikrishnarpanam.blogspot.in](http://srikrishnarpanam.blogspot.in) - has nice notes on mostly VK Swamy's upanyasam.
+
+
 
